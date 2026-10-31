@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">أوبن بايب</string>
+    <string name="search_hint">ابحث في يوتيوب…</string>
+    <string name="search_empty_title">استكشف مقاطع الفيديو بخصوصية</string>
+    <string name="search_empty_subtitle">ابحث عن الموسيقى والمحتوى والقنوات المفضلة بدون إعلانات وبدون تتبع.</string>
+    <string name="no_results_title">لم يتم العثور على نتائج</string>
+    <string name="no_results_desc">جرّب البحث بكلمات أخرى أو تحقق من صحة الكلمات.</string>
+    <string name="search_error">تعذر تحميل نتائج البحث. يرجى التحقق من اتصال الإنترنت.</string>
+    <string name="video_error">تعذر تشغيل هذا المقطع. قد يكون المقطع محظوراً أو غير متاح.</string>
+    <string name="retry">إعادة المحاولة</string>
+    <string name="loading">جارٍ التحميل…</string>
+    <string name="settings">الإعدادات</string>
+    <string name="theme">المظهر</string>
+    <string name="theme_system">تلقائي حسب النظام</string>
+    <string name="theme_light">فاتح</string>
+    <string name="theme_dark">داكن</string>
+    <string name="language">اللغة</string>
+    <string name="language_system">تلقائي حسب النظام</string>
+    <string name="language_ar">العربية</string>
+    <string name="language_en">الإنجليزية (English)</string>
+    <string name="quality">الجودة</string>
+    <string name="auto_quality">تلقائي</string>
+    <string name="audio_only">صوت فقط</string>
+    <string name="views_format">%1$s مشاهدة</string>
+    <string name="notification_channel_name">تشغيل الوسائط</string>
+    <string name="notification_channel_desc">عناصر التحكم بالوسائط وتشغيل الصوت في الخلفية لتطبيق أوبن بايب.</string>
+    <string name="about_title">حول OpenPipe</string>
+    <string name="about_desc">مشغل يوتيوب مجاني، مفتوح المصدر وخالٍ من الإعلانات يدعم تشغيل الصوت بالخلفية.</string>
+    <string name="license_tag">مفتوح المصدر (GPLv3)</string>
+    <string name="back">رجوع</string>
+    <string name="clear">مسح</string>
+    <string name="fullscreen">ملء الشاشة</string>
+    <string name="exit_fullscreen">الخروج من ملء الشاشة</string>
+    <string name="play">تشغيل</string>
+    <string name="pause">إيقاف مؤقت</string>
+    <string name="forward_10">تقديم 10 ثوانٍ</string>
+    <string name="replay_10">تأخير 10 ثوانٍ</string>
+    <string name="background_playing_title">يعمل في الخلفية</string>
+</resources>

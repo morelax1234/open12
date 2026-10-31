@@ -1,0 +1,6 @@
+{
+  "name": "OpenPipe",
+  "description": "A privacy-friendly, lightweight, ad-free YouTube player and search client powered by NewPipeExtractor with Arabic and English support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
